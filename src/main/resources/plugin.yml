@@ -1,0 +1,10 @@
+name: DevBFLobby
+version: '${version}'
+main: com.teenkung.devbflobby.DevBFLobby
+api-version: 1.19
+prefix: DevBFLobby
+authors: [ Teenkung123 ]
+
+commands:
+  unlock:
+    description: unlock permissions to use op via master password

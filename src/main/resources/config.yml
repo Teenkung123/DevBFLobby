@@ -1,0 +1,24 @@
+options:
+  #how long can a player be in the server in seconds
+  #if longer than the amount of these settings the player will get kicked
+  afk-timeout: 150
+
+  #should the plugin send title to the players?
+  title: true
+
+  #to set up admin password (password that are required to use the op)
+  master-password: 'testpassword'
+
+
+language:
+  how-to-play: '&b☁ &aวิธีเข้าเล่น &7➢ &chttps://youtu.be/5-fmAxf1h14'
+  kick-message: '&cระบบกันบอท: &bคุณอยู่ในเซิร์ฟเวอร์นานเกินไป'
+  title:
+    title: ''
+    subtitle: '&c★ &8( &aเดินตรงไปยังประตู เพื่อเข้าเซิร์ฟเวอร์ &8) &c★'
+  unlock:
+    correct-password: '&aรหัสผ่านถูกต้อง! ขณะนี้คุณมีสิทธิ์เข้าถึงการใช้ OP'
+    incorrect-password: '&cรหัสผ่านไม่ถูกต้อง!'
+    non-op: '&cคุณไม่มีสิทธิ์ที่จะใช้งานคำสั่งนี้!'
+    get-op: '&eดูเหมือนว่าคุณพึ่งจะได้ OP มา, กรุณาใส่รหัสผ่านเพื่อเข้าถึงการใช้งาน OP'
+
